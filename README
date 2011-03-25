@@ -1,7 +1,7 @@
 function a(){
 
 lorem
-ipsum
+ipsum($a);
 
 }
 
@@ -19,6 +19,6 @@ slovakia
 function c(){
 
 hello
-alpaka
+alpaka($b);
 
 }
