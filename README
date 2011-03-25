@@ -3,6 +3,7 @@ function a(){
 lorem($def);
 ipsum($ghi);
 dolor($abc);
+dolor($def);
 
 }
 
