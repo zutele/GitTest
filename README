@@ -1,9 +1,17 @@
 function a(){
 
+for ($i=1){
+
+	Lorem();
+
+}
+echo 'bbbb'
+
 lorem($def);
+if ($b==$c){
+
 ipsum($ghi);
-dolor($abc);
-dolor($def);
+}
 
 }
 
