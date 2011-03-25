@@ -13,6 +13,14 @@ if ($b==$c){
 ipsum($ghi);
 }
 
+if ($a==b){
+lorem($def);
+} else {
+ipsum($ghi);
+}
+dolor($abc);
+HELLO();
+
 }
 
 
