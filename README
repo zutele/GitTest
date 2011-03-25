@@ -1,6 +1,7 @@
 function a(){
 
 lorem
+ipsum
 
 }
 
@@ -15,5 +16,6 @@ world
 function c(){
 
 hello
+alpaka
 
 }
