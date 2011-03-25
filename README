@@ -1,9 +1,13 @@
 function a(){
 
+
+if ($a==b){
 lorem($def);
+} else {
 ipsum($ghi);
+}
 dolor($abc);
-dolor($def);
+HELLO();
 
 }
 
