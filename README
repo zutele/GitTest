@@ -2,7 +2,7 @@ function a(){
 
 lorem($xyz);
 ipsum($ab);
-dolor($c);
+dolor($DDDDD);
 
 }
 
