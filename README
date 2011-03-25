@@ -1,8 +1,8 @@
 function a(){
 
-lorem($xyz);
-ipsum($ab);
-dolor($DDDDD);
+lorem($abc);
+ipsum($xyz);
+dolor($def);
 
 }
 
